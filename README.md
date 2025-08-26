@@ -1,5 +1,12 @@
 # SANTOS-1
 OOP Repository #1
 Great Michael Santos 
-19
-CCS - BSCS
+  Male
+  19
+Gordon College 
+  CCS - BSCS
+Hobbies: 
+    Sleeping 
+    Running 
+   ｡ ₊°༺❤︎༻°₊ ｡
+    
